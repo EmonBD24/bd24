@@ -1,0 +1,56 @@
+*{margin: 0px; padding: 0px; outline: 0px;}
+body{font-family:arial;font-size: 18px;line-height: 20px; color:black }
+.templete{width: 1200px; margin:auto;
+}
+.clear{overflow: hidden;}
+
+
+
+
+.maincontent{background-color: white;}
+
+.header{}
+.header h1{background: none repeat scroll 0 0 green;
+    font-size: 40px;
+    padding: 22px;
+    text-align: center;}
+    
+
+
+
+
+
+.navigation{}
+.navigation h1{background: none repeat scroll 0 0 gray;
+    font-size: 39px;
+    margin-bottom: 5px;
+    margin-top: 4px;
+    padding: 20px;
+    text-align: center;}
+.content{background: none repeat scroll 0 0 gainsboro;
+    float: left;
+    text-align: center;
+    width: 688px;}
+    .saimpost{}
+    .saimpost h1{background: none repeat scroll 0 0 #80ff80;
+        padding: 9px;
+        text-align: left;}
+    .saimpost img{float: left;
+        height: 287px;
+        margin: 10px;
+        width: 240px;}
+    .saimpost p{}
+
+.sidebar{background: none repeat scroll 0 0 #9a9a9a;
+    float: right;
+    margin-bottom: 4px;
+    text-align: center;
+    width: 397px;}
+.sidebar p{}
+.emon{background: none repeat scroll 0 0 #80ff80;
+    padding: 12px;}
+.footer{background: none repeat scroll 0 0 gray;
+    font-size: 33px;
+    padding: 22px;
+    text-align: center;}
+.footer h1{}
